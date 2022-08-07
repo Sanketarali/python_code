@@ -1,0 +1,6 @@
+t=eval(input("Enter the tuple elements separated by comma"))
+print(t)
+l=list(t)
+print(l.reverse())
+t=tuple(l)
+print(t)
